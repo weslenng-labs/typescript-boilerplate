@@ -4,6 +4,7 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
+    "lint": "eslint \"*/**/*.ts\" --max-warnings 0",
     "start": "NODE_ENV=production node dist/index.js",
     "test": "jest --coverage"
   },
