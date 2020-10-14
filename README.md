@@ -1,6 +1,6 @@
 # Typescript Boilerplate
 
-Set up ESLint and Prettier in every Typescript project hurts 😔
+Set up ESLint and Prettier in every project hurts 😔
 
 ## Workspace
 
