@@ -1,6 +1,8 @@
-# Workspace
+# Typescript Boilerplate
 
-## Visual Studio Code
+Set up ESLint and Prettier in every Typescript project hurts 😔
+
+## Workspace
 
 ### Extensions
 
