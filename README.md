@@ -1,7 +1,5 @@
 # Typescript Boilerplate
 
-Set up ESLint and Prettier in every project hurts 😔
-
 ## Workspace
 
 ### Extensions
